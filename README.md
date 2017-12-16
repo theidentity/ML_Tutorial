@@ -1,5 +1,11 @@
 # Machine Learning Tutorial
 ---
+### Requried
+* python > 2.4
+* numpy
+* matplotlib
+* scikit-learn
+
 ### Introduction
 * Machine Learning
 * Difference between ML,DL,AI,DS
