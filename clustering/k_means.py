@@ -31,7 +31,7 @@ def display_result(X,Y):
 X = read()
 display(X)
 
-model = KMeans(n_clusters=2, random_state=0).fit(X)
+model = fit_model(X,2)
 X,Y_pred = predict(X,model)
 
 display_result(X,Y_pred)
