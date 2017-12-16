@@ -1,9 +1,5 @@
 # Machine Learning Tutorial
 ---
-
-## Roadmap
----
-
 ### Introduction
 * Machine Learning
 * Difference between ML,DL,AI,DS
@@ -25,5 +21,5 @@
 * Natural Language Processing
 
 ### Video Links
-https://www.youtube.com/watch?v=ohmajJTcpNk
-https://www.youtube.com/watch?v=Bui3DWs02h4&t=71s
+* https://www.youtube.com/watch?v=ohmajJTcpNk
+* https://www.youtube.com/watch?v=Bui3DWs02h4&t=71s
