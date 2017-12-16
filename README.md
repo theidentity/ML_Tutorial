@@ -11,11 +11,11 @@
 * Difference between ML,DL,AI,DS
 * Broadcasting in numpy
 
-### Superised Learning
+### Supervised Learning
 * Hands on - Linear Regression with Scikit
 * Implementing Linear Regression from math formulas
 
-### Superised Learning
+### Unsupervised Learning
 * Clustering using Scikit
 * Clustering using KMeans by hand
 
